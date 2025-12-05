@@ -22,17 +22,7 @@
     <li><strong>Build Tools:</strong> Webpack for Frontend</li>
 </ul>
 
-<h2>📸 Screenshots</h2>
 
-<!-- Replace with actual screenshots -->
-<p><strong>1. Dashboard</strong></p>
-<p><img src="https://example.com/screenshot-dashboard.png" alt="Dashboard"></p>
-
-<p><strong>2. Task Management</strong></p>
-<p><img src="https://example.com/screenshot-task-management.png" alt="Task Management"></p>
-
-<p><strong>3. Project Overview</strong></p>
-<p><img src="https://example.com/screenshot-project-overview.png" alt="Project Overview"></p>
 
 <h2>🚀 Getting Started</h2>
 
