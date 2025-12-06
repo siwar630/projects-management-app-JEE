@@ -84,12 +84,4 @@ npm start</code></pre>
     <li>Create a new Pull Request.</li>
 </ol>
 
-<h2>📄 License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-<h2>👨‍💻 Author</h2>
-<p><strong>Houssem</strong></p>
-<ul>
-    <li><a href="https://www.linkedin.com/in/houssem-regaieg-589526258/">LinkedIn</a></li>
-    <li><a href="https://github.com/HoussemRg">GitHub</a></li>
-</ul>
